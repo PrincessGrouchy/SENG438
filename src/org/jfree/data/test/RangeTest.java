@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 import org.jfree.data.Range;
 import org.junit.*;
 
-// TODO: Auto-generated Javadoc
+
 /**
  * The Class RangeTest.
  *
